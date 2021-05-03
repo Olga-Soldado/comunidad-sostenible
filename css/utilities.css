@@ -20,9 +20,7 @@
 .border{
 	border: white 2px solid;
 }
-.fondo{
-	background-image: url("img\fondo2.jpg");
-}
+
 .pd-0 {
 	padding: 0;
 }
@@ -75,7 +73,7 @@
 	text-decoration: none;
 }
 .bg-gray{
-	background-color: #F2F2F2;
+	background-color: #d6d2d2;
 }
 .bg-green{
 	background-color: #5E8039;

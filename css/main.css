@@ -1,14 +1,11 @@
-
+*{margin: 0;}
 body{font-family: system-ui, system-ui, sans-serif;
     display: block;}
     
 .borde{
-    border: black 2px solid;
     width: 450px;
     height: fit-content;
-   
-    background-size: cover;
-    background-repeat: no-repeat;
+
 }
 
 .bg-img{ 
@@ -16,10 +13,14 @@ body{font-family: system-ui, system-ui, sans-serif;
     height: fit-content;
     position: relative;
     opacity: default;
+    background-size: cover;
+    background-repeat: no-repeat;
 }
 
-.img{
+
+.img-recorte{
     width: 100%;
-    min-height: min-content;
+    height: 600px;
+    object-fit:cover;
 
 }
