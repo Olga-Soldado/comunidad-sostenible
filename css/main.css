@@ -1,0 +1,25 @@
+
+body{font-family: system-ui, system-ui, sans-serif;
+    display: block;}
+    
+.borde{
+    border: black 2px solid;
+    width: 450px;
+    height: fit-content;
+   
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.bg-img{ 
+    width: 400px;
+    height: fit-content;
+    position: relative;
+    opacity: default;
+}
+
+.img{
+    width: 100%;
+    min-height: min-content;
+
+}
